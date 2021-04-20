@@ -6,23 +6,3 @@ body {
   font-family: sans-serif;
   text-align: center;
 }
-
-h1,
-h2 {
-  color: #81b0f1;
-}
-
-h1 img {
-  width: 2rem;
-  margin: 0px 8px;
-}
-
-button {
-  color: rgb(204, 203, 203);
-  background-color: transparent;
-  font-size: 1.2rem;
-  border: 2px solid #f1c95c;
-  border-radius: 8px;
-  padding: 0.9rem 1rem;
-  margin: 8px;
-}

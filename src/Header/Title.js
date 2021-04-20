@@ -1,5 +1,6 @@
 import React from "react";
 import atom from "./atom.svg";
+import "./style.css";
 
 export default function Title() {
   return (
