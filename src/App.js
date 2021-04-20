@@ -1,12 +1,16 @@
 import "./styles.css";
 import Title from "./Title";
-import Button from "./Button";
+import ButtonViet from "./Button/ButtonViet";
+import ButtonTurk from "./Button/ButtonTurk";
+import ButtonAus from "./Button/ButtonAus";
 
 export default function App() {
   return (
     <div className="App">
       <Title />
-      <Button />
+      <ButtonViet />
+      <ButtonTurk />
+      <ButtonAus />
     </div>
   );
 }

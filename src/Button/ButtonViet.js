@@ -1,11 +1,11 @@
 import React from "react";
 import { useState } from "react";
 
-export default function Button() {
-  const [state, setState] = useState("What is the longest river in the world?");
+export default function ButtonViet() {
+  const [state, setState] = useState("What is the capital of Vietnam?");
 
   const handleClick = () => {
-    setState("It's the Nile River!");
+    setState("The capital is Hanoi!");
   };
 
   return (
