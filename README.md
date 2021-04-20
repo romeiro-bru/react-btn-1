@@ -4,7 +4,7 @@
 
 Day One / 30 days of React challenge / "Question and Answer" Button
 
-## Features :deciduous_tree:
+## Features :unicorn: 
 * The button shows a question
 * Click on the button to reveal the answer
 
