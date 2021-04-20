@@ -1,5 +1,6 @@
 import React from "react";
 import { useState } from "react";
+import "./style.css";
 
 export default function ButtonAus() {
   const [state, setState] = useState("What is the capital of Australia?");
