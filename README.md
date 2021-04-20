@@ -1,5 +1,5 @@
 <p  align="center">
-<img  src="https://media.giphy.com/media/13twUEuUnCrEju/giphy.gif"  height="200" alt="atom">
+<img  src="https://media.giphy.com/media/9DavVitIZ26jH0aK7s/giphy.gif"  height="200" alt="button">
 </p>
 
 Day One / 30 days of React challenge / "Question and Answer" Button
