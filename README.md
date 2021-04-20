@@ -8,6 +8,6 @@ Day One / 30 days of React challenge / "Question and Answer" Button
 * The button shows a question
 * Click on the button to reveal the answer
 
-## Technologies :octocat:
+## Technologies :mag_right:
 * React :sparkles:
 * Css :nail_care:
