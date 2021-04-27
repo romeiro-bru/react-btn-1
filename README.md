@@ -12,4 +12,5 @@
 * React :sparkles:
 * Css :nail_care:
 #
-### Inspired by: "Question & Answer" of [@graceaveris](https://github.com/graceaveris)
+#
+Inspired by: "Question & Answer" of [@graceaveris](https://github.com/graceaveris)
