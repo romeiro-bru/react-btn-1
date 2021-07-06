@@ -7,7 +7,7 @@ export default function Title() {
     <>
       <h1>
         30 days of React
-        <img src={atom} alt="react" />
+        <img src={atom} alt="react" className="spin" />
       </h1>
       <h2>Day 1</h2>
     </>

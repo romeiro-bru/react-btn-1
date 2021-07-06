@@ -7,3 +7,13 @@ h1 img {
   width: 2rem;
   margin: 0px 0px -5px 10px;
 }
+
+.spin {
+  animation: spin 6s infinite linear;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
